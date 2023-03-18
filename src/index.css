@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "FF Yaseer";
+  src: font-url("assets/fonts/FFYaseer-Regular.ttf") format("truetype");
+}
+
+* {
+  font-family: "FF Yaseer" !important;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
