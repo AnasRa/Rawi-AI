@@ -2,7 +2,7 @@
 From Ruwat Team
 
 
-After adding your OpenAI API key 
+After adding your API key 
 run this
 
 ```sh
